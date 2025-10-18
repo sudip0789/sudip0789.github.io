@@ -1,0 +1,56 @@
+[
+  {
+    "name": "NvidiaHack-EcoAgent",
+    "description": "An intelligent agent that classifies waste, generates reports and alerts authorities through images and location",
+    "html_url": "https://github.com/sudip0789/NvidiaHack-EcoAgent",
+    "language": "Python",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "updated_at": "2025-10-17T09:19:02Z"
+  },
+  {
+    "name": "Property_Info_Finder_App",
+    "description": "A comprehensive tool for viewing property information, integrating real-time APIs and AI for a seamless experience.",
+    "html_url": "https://github.com/sudip0789/Property_Info_Finder_App",
+    "language": "Python",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "updated_at": "2025-10-17T09:28:28Z"
+  },
+  {
+    "name": "NSP-Coherence-Checker",
+    "description": "A multi-phase project designed to evaluate and improve sentence coherence using Next Sentence Prediction (NSP)",
+    "html_url": "https://github.com/sudip0789/NSP-Coherence-Checker",
+    "language": "Jupyter Notebook",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "updated_at": "2025-10-17T09:28:38Z"
+  },
+  {
+    "name": "Automated-Chatbot-Response-Evaluator",
+    "description": "Google Apps script to automate the analysis of chatbot responses directly on Google Sheets",
+    "html_url": "https://github.com/sudip0789/Automated-Chatbot-Response-Evaluator",
+    "language": "JavaScript",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "updated_at": "2025-10-17T09:28:22Z"
+  },
+  {
+    "name": "NLP_Trainer",
+    "description": "A Virtual Assistant for Mastering NLP Basics and Interview Questions",
+    "html_url": "https://github.com/sudip0789/NLP_Trainer",
+    "language": "Jupyter Notebook",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "updated_at": "2025-10-17T09:28:30Z"
+  },
+  {
+    "name": "BrailleCart",
+    "description": "AI-Powered grocery assistance tool for the visually impaired",
+    "html_url": "https://github.com/sudip0789/BrailleCart",
+    "language": "Jupyter Notebook",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "updated_at": "2025-10-17T09:28:32Z"
+  }
+]
