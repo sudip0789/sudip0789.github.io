@@ -24,7 +24,7 @@ export const Hero = () => {
             className="flex justify-center mb-8"
           >
             <Avatar className="w-48 h-48 md:w-56 md:h-56 lg:w-64 lg:h-64 ring-4 ring-primary/20 shadow-glow">
-              <AvatarImage src="public/avatar.jpg" alt={siteData.name} />
+              <AvatarImage src="avatar.jpg" alt={siteData.name} />
               <AvatarFallback className="text-4xl bg-gradient-primary text-primary-foreground">
                 {siteData.name.split(' ').map(n => n[0]).join('')}
               </AvatarFallback>
