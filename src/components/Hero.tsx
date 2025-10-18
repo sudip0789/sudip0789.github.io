@@ -60,24 +60,24 @@ export const Hero = () => {
           </motion.div>
           
           <motion.div
-            className="flex gap-4 justify-center"
+            className="flex flex-wrap justify-center gap-3"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: 0.6, delay: 0.6 }}
           >
-            <Button asChild variant="default" size="lg">
+            <Button asChild variant="default" size="lg" className="w-full sm:w-auto">
               <a href={siteData.github} target="_blank" rel="noopener noreferrer">
                 <Github className="w-5 h-5 mr-2" />
                 GitHub
               </a>
             </Button>
-            <Button asChild variant="outline" size="lg">
+            <Button asChild variant="outline" size="lg" className="w-full sm:w-auto">
               <a href={siteData.linkedin} target="_blank" rel="noopener noreferrer">
                 <Linkedin className="w-5 h-5 mr-2" />
                 LinkedIn
               </a>
             </Button>
-            <Button asChild variant="outline" size="lg">
+            <Button asChild variant="outline" size="lg" className="w-full sm:w-auto">
               <a href={`mailto:${siteData.email}`}>
                 <Mail className="w-5 h-5 mr-2" />
                 Email
